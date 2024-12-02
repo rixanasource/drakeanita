@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/drakeanita/static/css/main.f855e6bc.css",
-    "main.js": "/drakeanita/static/js/main.25963b17.js",
+    "main.js": "/drakeanita/static/js/main.8ede6150.js",
     "static/js/453.04aed064.chunk.js": "/drakeanita/static/js/453.04aed064.chunk.js",
     "static/media/logo.svg": "/drakeanita/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/drakeanita/index.html",
     "main.f855e6bc.css.map": "/drakeanita/static/css/main.f855e6bc.css.map",
-    "main.25963b17.js.map": "/drakeanita/static/js/main.25963b17.js.map",
+    "main.8ede6150.js.map": "/drakeanita/static/js/main.8ede6150.js.map",
     "453.04aed064.chunk.js.map": "/drakeanita/static/js/453.04aed064.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.25963b17.js"
+    "static/js/main.8ede6150.js"
   ]
 }
